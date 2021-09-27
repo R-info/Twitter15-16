@@ -1,0 +1,10 @@
+BERT_LDA/
+kaggle_stuff/
+NeuralNetwork/
+Research/
+twitter/
+ToDoList
+dependencies.txt
+
+.venv/
+twitter_token.txt

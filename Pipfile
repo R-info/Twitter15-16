@@ -1,0 +1,52 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+torchvision = "*"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+jupyterlab = "*"
+matplotlib = "*"
+sentence-transformers = "*"
+gensim = "*"
+hdbscan = "*"
+umap-learn = "*"
+nltk = "*"
+keras = "*"
+tensorflow = "*"
+wordcloud = "*"
+ipywidgets = "*"
+pyldavis = "*"
+bokeh = "*"
+biterm = "*"
+gpym-tm = "*"
+gpm = "*"
+fairseq = "*"
+fastbpe = "*"
+emoji = "*"
+joblib = "*"
+tweepy = "*"
+demjson = "*"
+transformers = "*"
+duckduckpy = "*"
+google-api-python-client = "*"
+networkx = "*"
+unshortenit = "*"
+xlrd = "*"
+openpyxl = "*"
+sastrawi = "*"
+beautifulsoup4 = "*"
+scrapy = "*"
+plotly = "*"
+longformer = {git = "https://github.com/allenai/longformer.git"}
+selenium = "*"
+nlu = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
